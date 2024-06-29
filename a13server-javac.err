@@ -1,0 +1,4 @@
+src\server\ViewServer.java:142: warning: [deprecation] finalize() in Object has been deprecated
+	public void finalize() {
+	            ^
+1 warning

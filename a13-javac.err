@@ -1,0 +1,7 @@
+src\game\GameView.java:518: warning: [static] static variable should be qualified by type name, GameView, instead of by an expression
+		this.x = x;
+		    ^
+src\game\GameView.java:519: warning: [static] static variable should be qualified by type name, GameView, instead of by an expression
+		this.y = y;
+		    ^
+2 warnings
